@@ -1,0 +1,1 @@
+export const RECEIVE_CHATS = 'RECEIVE_CHATS';
